@@ -1,0 +1,8 @@
+.env
+.DS_Store
+playlists/
+epgs/
+merged.xml.gz
+tasks/
+playlists.txt
+combined.m3u
